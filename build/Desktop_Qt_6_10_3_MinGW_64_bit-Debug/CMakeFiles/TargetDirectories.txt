@@ -1,0 +1,5 @@
+D:/QT/lujing/TimeTracker/build/Desktop_Qt_6_10_3_MinGW_64_bit-Debug/CMakeFiles/TimeTracker.dir
+D:/QT/lujing/TimeTracker/build/Desktop_Qt_6_10_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/QT/lujing/TimeTracker/build/Desktop_Qt_6_10_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/QT/lujing/TimeTracker/build/Desktop_Qt_6_10_3_MinGW_64_bit-Debug/CMakeFiles/TimeTracker_autogen_timestamp_deps.dir
+D:/QT/lujing/TimeTracker/build/Desktop_Qt_6_10_3_MinGW_64_bit-Debug/CMakeFiles/TimeTracker_autogen.dir
