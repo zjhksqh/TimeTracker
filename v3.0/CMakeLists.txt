@@ -36,6 +36,7 @@ set(RESOURCES
 add_executable(TimeTracker
     ${SOURCES}
     ${RESOURCES}
+    tubiao.rc
     database.h
     hourlychartwidget.h mainwindow.h tracker.h
 )
